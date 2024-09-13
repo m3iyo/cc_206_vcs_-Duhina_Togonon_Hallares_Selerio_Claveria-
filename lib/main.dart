@@ -1,4 +1,4 @@
-// Togonon: audi vide trace
+// Togonon: audi vide tace
 // Hallares: Try and try until you die
 // Selerio: Ka submit kana?
 // Claveria: Way ga reply hahaha
