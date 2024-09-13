@@ -1,8 +1,8 @@
-// Togonon : audi vide tace
-// Hallares : Try and try until you die
-// Selerio : Ka submit kana?
-// Claveria : Way ga reply hahaha
-// Duhina : Sala mani ubra mo
+// Togonon: audi vide tace
+// Hallares: Try and try until you die
+// Selerio: Ka submit kana?
+// Claveria: Way ga reply hahaha
+// Duhina: "Just know that somebody still loves you."
 
 import 'package:flutter/material.dart';
 
